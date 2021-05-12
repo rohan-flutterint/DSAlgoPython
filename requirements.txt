@@ -2,7 +2,7 @@ beautifulsoup4
 fake_useragent
 keras; python_version < '3.9'
 lxml
-matplotlib=3.4.2
+matplotlib==3.4.2
 numpy
 opencv-python
 pandas
