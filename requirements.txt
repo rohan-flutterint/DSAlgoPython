@@ -4,7 +4,7 @@ keras; python_version < '3.9'
 lxml
 matplotlib
 numpy
-opencv-python
+opencv-python==4.5.3.56
 pandas
 pillow
 qiskit
